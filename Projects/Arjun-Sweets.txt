@@ -1,0 +1,417 @@
+# Arjun Sweets — Premium Food Brand Website AI Prompt
+
+Create a world-class premium restaurant and sweets brand website named “Arjun Sweets”.
+
+The website must feel like a real large-scale food company brand, not a template website.
+The UI quality should match modern premium food brands and food-tech companies.
+
+Reference Website Inspirations:
+
+* [https://www.sagarratna.com](https://www.sagarratna.com)
+* [https://www.barbequenation.com](https://www.barbequenation.com)
+* [https://www.wowmomo.com](https://www.wowmomo.com)
+* [https://www.zomato.com](https://www.zomato.com)
+
+Important:
+Do not directly copy any website.
+Take inspiration from:
+
+* Layout structure
+* Premium section styling
+* Food presentation
+* Typography hierarchy
+* Spacing system
+* Image composition
+* Visual quality
+* Card layouts
+* Hero section style
+* Animation quality
+* Modern restaurant branding feel
+
+---
+
+# Brand Information
+
+Brand Name:
+Arjun Sweets
+
+Industry:
+Restaurant + Sweets + Food Brand
+
+Language:
+English Only
+
+Brand Feel:
+Premium, Modern, Cinematic, Luxury Food Brand
+
+Target:
+Create a website that looks like a real national-level sweets and restaurant company.
+
+---
+
+# Design Direction
+
+The design should feel:
+
+* Modern
+* Premium
+* Luxury
+* Clean
+* Cinematic
+* Responsive
+* Food-focused
+* Brand-oriented
+
+The website must look expensive and professionally designed.
+
+Avoid:
+
+* Cheap template layouts
+* Basic UI
+* Flat boring cards
+* Low-quality spacing
+* Generic typography
+* Outdated design styles
+
+---
+
+# UI Quality Requirements
+
+Focus heavily on:
+
+* Typography
+* Spacing
+* Section balance
+* Image placement
+* Card design
+* Hero composition
+* Premium hover effects
+* Smooth animations
+* Responsive layout
+* Visual hierarchy
+
+Every section should feel polished and production-ready.
+
+---
+
+# Typography
+
+Use ONLY these font families:
+
+```html
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Titan+One&display=swap');
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Titan+One&display=swap');
+</style>
+```
+
+Typography Usage:
+
+* Headings = Titan One / Poppins Bold
+* Body Text = Poppins / Noto Sans
+* Premium Sections = Roboto
+
+---
+
+# Border Radius Rules
+
+Use:
+
+* Border Radius = 33px
+* Smooth modern rounded layouts everywhere
+
+CSS:
+
+```css
+corner-shape: squircle;
+```
+
+---
+
+# Image Style Direction
+
+Use:
+
+* High-quality food photography
+* Cinematic lighting
+* Premium sweets presentation
+* Rich Indian food visuals
+* Luxury restaurant atmosphere
+* Warm color tone food imagery
+* Premium dessert closeups
+* Real restaurant environment images
+
+Food images should look:
+
+* Premium
+* Mouth-watering
+* Commercial-grade
+* Professionally shot
+
+Avoid:
+
+* Cartoon images
+* Low-quality stock photos
+* Blurry images
+* Generic food graphics
+
+---
+
+# Website Sections
+
+Create all sections below:
+
+1. Premium Navbar
+2. Hero Banner
+3. Featured Dishes
+4. Sweets Collection
+5. Best Selling Items
+6. Restaurant Story
+7. Offers & Discounts
+8. Festival Specials
+9. Food Categories
+10. Popular Combos
+11. Signature Dishes
+12. Gallery Section
+13. Customer Testimonials
+14. Why Choose Us
+15. Mobile App Promotion
+16. Online Ordering Section
+17. Delivery Information
+18. Instagram / Social Section
+19. FAQ Section
+20. Contact Section
+21. Premium Footer
+
+---
+
+# Hero Section Requirements
+
+Hero section should include:
+
+* Large cinematic food image
+* Premium headline
+* Luxury food-brand atmosphere
+* CTA buttons
+* Offer highlights
+* Floating UI elements
+* Smooth gradients
+* Glassmorphism effects
+* Premium overlays
+
+Hero section should feel:
+
+* Modern
+* Premium
+* Expensive
+* Brand-focused
+
+---
+
+# Card Design Rules
+
+Cards must:
+
+* Feel modern and luxurious
+* Have soft shadows
+* Use smooth hover animation
+* Use layered depth
+* Include premium spacing
+* Include smooth transitions
+* Include image zoom effects
+
+Cards should never feel flat or basic.
+
+---
+
+# Animation Requirements
+
+Use:
+
+* Smooth transitions
+* Hover scaling
+* Floating effects
+* Scroll reveal animations
+* Image zoom hover
+* Gradient glow buttons
+* Blur effects
+* Premium motion effects
+
+Animation should feel:
+
+* Smooth
+* Modern
+* Professional
+* Lightweight
+
+Avoid:
+
+* Over-animation
+* Laggy motion
+* Cheap effects
+
+---
+
+# Color System
+
+The color palette will be provided later.
+
+Until then:
+
+* Keep system flexible
+* Use modern color variables
+* Use premium gradient structure
+* Maintain strong contrast and readability
+
+---
+
+# Responsive Requirements
+
+Website must be fully responsive.
+
+Support:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+Mobile UI must feel:
+
+* App-like
+* Smooth
+* Premium
+* Modern
+
+---
+
+# Technical Requirements
+
+Use:
+
+* Clean HTML
+* Modern CSS
+* Responsive Grid/Flex layouts
+* Reusable components
+* Organized structure
+* Performance optimization
+
+Code must feel:
+
+* Production-ready
+* Professional
+* Maintainable
+* Scalable
+
+---
+
+# Easy To Use Experience Requirements
+
+The website must be extremely easy to use.
+
+Important:
+
+* Navigation should feel simple and smooth
+* Users should instantly understand the website
+* Keep UI clean and user-friendly
+* Avoid confusing layouts
+* Maintain comfortable spacing
+* Buttons should feel clear and visible
+* Menu structure should be easy to understand
+* Mobile experience should be effortless
+* Ordering flow should feel simple
+* Users should find products quickly
+* Maintain premium UX without making the interface complicated
+
+The website should feel:
+
+* Easy
+* Fast
+* Smooth
+* Premium
+* Comfortable
+* Modern
+
+Focus heavily on:
+
+* User Experience (UX)
+* Accessibility
+* Easy navigation
+* Simple interaction flow
+* Fast readability
+* Proper spacing hierarchy
+* Mobile-friendly usability
+
+---
+
+# UX Requirements
+
+Focus on:
+
+* User attention flow
+* CTA visibility
+* Premium interactions
+* Comfortable spacing
+* Easy navigation
+* Strong visual hierarchy
+
+The user should instantly feel:
+“This is a premium sweets and restaurant brand.”
+
+---
+
+# Content Direction
+
+Use content inspiration from premium restaurant and food-tech websites.
+
+The content style should feel:
+
+* Premium
+* Modern
+* Professional
+* Brand-oriented
+* Food-focused
+* Luxury
+
+Use premium-quality:
+
+* Headlines
+* CTA text
+* Offers
+* Section titles
+* Food descriptions
+* Brand messaging
+* Promotional content
+* Delivery messaging
+* Restaurant storytelling
+
+Avoid:
+
+* Generic placeholder text
+* Cheap marketing lines
+* Random lorem ipsum content
+
+---
+
+# Final Goal
+
+The final website should look like:
+
+* A real premium restaurant company
+* A national sweets brand
+* A food-tech startup
+* A modern luxury food platform
+
+The website must feel:
+
+* Premium
+* Trustworthy
+* Modern
+* Cinematic
+* Brand-focused
+* High quality
+
+The final UI should be good enough to compete visually with large modern food brands.
